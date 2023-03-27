@@ -2,6 +2,7 @@ import sqlite3, hashlib
 from tkinter import *
 from tkinter import simpledialog
 from functools import partial
+#merge this pull request if you are not gay
 
 #-----------------------------DB-----------------------------------------
 
